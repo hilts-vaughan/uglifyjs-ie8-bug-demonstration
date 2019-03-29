@@ -1,0 +1,1 @@
+./node_modules/uglify-js/bin/uglifyjs app.js -b --mangle --ie8 > app.min.js
